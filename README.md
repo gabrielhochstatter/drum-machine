@@ -32,10 +32,13 @@ These instructions will help to follow the steps of the project.
 - Zeit (Now CLI) for deployment
 
 ## Authors
-[Gabriel Hochstatter](https://github.com/gabrielhochstatter)
-[Jihin Ip](https://github.com/mitsukan)
-[Shih Han Wang](https://github.com/shihhanwang)
-[Vytis Vadoklis](https://github.com/VytisVA)
+🔹 [Gabriel Hochstatter](https://github.com/gabrielhochstatter)
+
+🔸 [Jihin Ip](https://github.com/mitsukan)
+
+🔹 [Shih Han Wang](https://github.com/shihhanwang)
+
+🔸 [Vytis Vadoklis](https://github.com/VytisVA)
 
 ## App screenshots
 
