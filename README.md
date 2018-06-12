@@ -1,26 +1,26 @@
 # Drum Machine by BeatMakers
 
-The Drum Machine by Beat Makers is SPA sound sequencer that imitates drum kits or other percussion instruments.
+For our final project at [Maker's Academy](https://makers.tech/), we created a step-sequencer drum machine app. To make things a little more interesting we decided to add some animations that would dynamically respond to the beat that the user creates.
 
 ## Getting Started
 
 These instructions will help to follow the steps of the project.
 
-## Usage(Global)
+## Check out the deployed version:
 
-- https://drum-machine-fksukfijbx.now.sh/
+- [Follow this link here!](https://drum-machine-fksukfijbx.now.sh/)
 
-## Usage(Local) 
+## To use it locally: 
 
-- `git clone` 
-- `npm install` 
-- Local: run the app using server runner (eg. http server, Live Server)
+- Clone this repo
+- Open index.html or run http-server and go to the localhost address it tells you.
+
 
 ## Running the tests
 
-- `open SpecRunner.html`
+- open `SpecRunner.html`
 
-## Tech stack
+## Tech:
 
 - JavaScript 
 - Howler.js
