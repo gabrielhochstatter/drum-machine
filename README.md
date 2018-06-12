@@ -1,4 +1,4 @@
-# Drum Machine by BeatMakers
+# 🥁 Drum Machine by BeatMakers 🥁
 
 For our final project at [Maker's Academy](https://makers.tech/), we created a step-sequencer drum machine app. To make things a little more interesting we decided to add some animations that would dynamically respond to the beat that the user creates.
 
